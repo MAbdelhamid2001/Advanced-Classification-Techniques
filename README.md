@@ -5,3 +5,4 @@
 - Decision tree , Random forest and AdaBoost Calssifiers.
 - I have also reduced the existing Overfitting by applying many techniques and changing hyperparameters.
 - I have got a similar Accuracy of 82% and sometimes 79% with no overfitting
+-UPdate : Naive Bayes Implementation Added both for Numirical and Categorical Features
